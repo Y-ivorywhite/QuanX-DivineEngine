@@ -1,4 +1,4 @@
-/***** ***** ***** ***** *****
+/***** ***** ***** ***** *****1
 
 [task_local]
 0 6 * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/jrcx.js, tag=吉日查询, enabled=true
